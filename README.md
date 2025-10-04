@@ -1,15 +1,10 @@
+// I am human (surprisingly)
 
-// i am Human (suprisingly)
+// I'm too lazy to make a nice-looking profile page, 
+// but if someone does it for me, I'll be very happy.
 
-
-// im too lazy to make a good looking profile page (if somebody does it for me ill be very happy)
-
-
-
-
-
-Technologies i use
-- Javascript
+Technologies I use:
+- JavaScript
 - Rust
 - Tailwind
 - React
